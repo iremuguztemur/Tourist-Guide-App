@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#ffffff"
+        android:backgroundTint="@color/quantum_grey300">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/imageview"
+            android:layout_width="115dp"
+            android:layout_height="97dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            app:cardCornerRadius="10dp">
+
+
+            <ImageView
+                android:id="@+id/imgPlace"
+                android:layout_width="115dp"
+                android:layout_height="99dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tokatlikanyn">
+
+            </ImageView>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/txtCity"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_toRightOf="@+id/imageview"
+            android:text="Tokatlı Kanyonu"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtinf2"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginTop="55dp"
+            android:layout_toRightOf="@+id/imageview"
+            android:text="infolar"
+            android:textColor="#000000"
+            android:textSize="17sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtkullanici"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="21dp"
+            android:layout_marginTop="80dp"
+            android:layout_toRightOf="@+id/imageview"
+            android:text="kulanici"
+            android:textColor="#000000"
+            android:textSize="14sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/lat2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="75dp"
+            android:layout_toRightOf="@+id/imageview"
+            android:text="lat2"
+            android:textColor="#000000"
+            android:textSize="0sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/long2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="23dp"
+            android:layout_marginTop="80dp"
+            android:layout_toRightOf="@+id/lat2"
+            android:text="lat2"
+            android:textColor="#000000"
+            android:textSize="0sp">
+
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/button_edit"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="0dp"
+            android:background="@drawable/ic_edit2" />
+
+        <ImageButton
+            android:id="@+id/button_delete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="12dp"
+            android:background="@drawable/ic_delete" />
+
+        <ImageButton
+            android:id="@+id/button_direction"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="46dp"
+            android:background="@drawable/directions" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

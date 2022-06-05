@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="1"
+    android:background="@color/primaryColor"
+    android:backgroundTint="@color/quantum_grey100"
+    tools:context=".Fragments.ToGoogleMap"
+    android:clickable="true"
+    android:focusable="true"
+    >
+
+
+    <TextView
+        android:id="@+id/savedplacestoname"
+        android:layout_width="340dp"
+        android:layout_height="101dp"
+        android:layout_above="@+id/infoolsun"
+
+        android:layout_alignParentStart="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="12dp"
+        android:background="@color/transparentColor"
+        android:clickable="true"
+        android:focusable="true"
+        android:fontFamily="@font/playfair_display"
+        android:gravity="center"
+        android:text="Google map"
+        android:textColor="@color/quantum_greyblack1000"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/longolsun"
+        android:layout_width="160dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="228dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/transparentColor"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="Long"
+        android:textColor="@color/primaryColor"
+        android:textSize="0dp" />
+
+    <TextView
+        android:id="@+id/latolsun"
+        android:layout_width="160dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/transparentColor"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="lat"
+        android:textColor="@color/primaryColor"
+        android:textSize="8dp" />
+
+    <TextView
+        android:id="@+id/infoolsun"
+        android:layout_width="wrap_content"
+        android:layout_height="205dp"
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="61dp"
+        android:background="@color/transparentColor"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="left"
+        android:text="info"
+        android:textColor="@color/quantum_grey900"
+        android:textSize="19dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imageolsun"
+        android:layout_width="357dp"
+        android:layout_height="291dp"
+        android:layout_above="@+id/savedplacestoname"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="15dp"
+        android:background="@color/transparentColor"
+        android:src="@drawable/cincihamami" />
+
+
+</RelativeLayout>

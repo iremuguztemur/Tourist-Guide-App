@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="personNameEdit" type="id"/>
+    <item name="personSurnameEdit" type="id"/>
+    <item name="personTitleEdit" type="id"/>
+    <item name="personAgeEdit" type="id"/>
+</resources>

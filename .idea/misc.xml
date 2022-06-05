@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-v24/ic_baseline_login_24.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-v24/ic_bookmark.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-v24/ic_direction.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-v24/ic_rating.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-xxhdpi/ic_email.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-xxhdpi/ic_lock.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable-xxhdpi/ic_person.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic__044996_mosque_muslim_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_atm.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_car_wash.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_edit.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_gas_station.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_hospital.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_location.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_map_type.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_mosque_icon.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_my_location.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_pharmacy.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_restaurant.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_saloon.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/ic_traffic.xml" value="0.3828125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/drawable/map_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/font/playfair_display.xml" value="0.3927083333333333" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/font/poppins.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout-tr/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_deneme123.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_direction.xml" value="0.33" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_forget.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_sign_up.xml" value="0.27943840579710144" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_splash.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/activity_to_google_map.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/add_guide_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/change_email_dialog.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/change_password_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/dialog_layout.xml" value="0.1" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/edit_places.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_add_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_add_help.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_edit_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_email_change.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_help.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_password_change.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_s_q_lite_db_helper.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_save_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_saved_places.xml" value="0.2898550724637681" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_saved_places_adapter.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_show_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_to_google_map.xml" value="0.25" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/fragment_web_page.xml" value="0.3625" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/header_layout.xml" value="0.33" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/items.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/items2.xml" value="0.33" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/log_out_dialog.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/nav_drawer_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/place_item_layout.xml" value="0.33" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/popup_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/row_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/row_help.xml" value="0.23125" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/step_item_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/toolbar_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/layout/username_dialog_layout.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/menu/map_type_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/menu/nav_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/menu/option_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SAHIN/AndroidStudioProjects/PopFinder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/drawable/profile_circular_border_imageview.xml" value="0.1775" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/font/poppins_medium.xml" value="0.1" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/activity_kullanici_detay.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/activity_main2.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/activity_user_detail.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/edit_places.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_add_guide.xml" value="0.25" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_add_help.xml" value="0.19692307692307692" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_guide_detail.xml" value="0.153125" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_help.xml" value="0.153125" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_save_screen.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_saved_places.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_show_guide.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/fragment_spin_wheel.xml" value="0.1" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/items.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/items2.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/place_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/popup_view.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/row_guide.xml" value="0.25" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/row_help.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/rowguide2.xml" value="0.22" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/step_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/layout/toolbar_layout.xml" value="0.153125" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/menu/map_type_menu.xml" value="0.1" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/iremu/Downloads/FinalProject-master-berat/app/src/main/res/menu/option_menu.xml" value="0.153125" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_camera.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_edit.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_email_filled.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_help.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_info.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_lock_filled.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_next.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/drawable/ic_setting.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/activity_forget.xml" value="0.2" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/activity_main.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/fragment_saved_places.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/fragment_settings.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/nav_drawer_layout.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/toolbar_layout.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/layout/username_dialog_layout.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/menu/map_type_menu.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/iremu/Downloads/PopFinder2/app/src/main/res/menu/nav_menu.xml" value="0.16614583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

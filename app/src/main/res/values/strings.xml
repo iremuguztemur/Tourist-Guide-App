@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SafranboluCityGuide</string>
+    <string name="API_KEY">AIzaSyDq5L8A7tCNcIxjYmva_rSvsBARHn3-JwE</string>
+    <!-- TODO: Remove or change this placeholder text
+     AIzaSyDq5L8A7tCNcIxjYmva_rSvsBARHn3-JwE....AIzaSyBsZrS5LkAXAqzgVYMJQQMYOoWgYCHHZTU  -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_string">Already have an account? <b>Login here</b></string>
+    <string name="open_navigation_drawer">Open Drawer</string>
+    <string name="close_navigation_drawer">Open Drawer</string>
+    <string name="search_Place">Search Place</string>
+    <string name="Home">Home</string>
+    <string name="language">English</string>
+    <string name="Satalite1">Default</string>
+    <string name="Satellite2">Satellite</string>
+    <string name="Satellite3">Terrain</string>
+    <string name="SavedPlaces">Saved Places</string>
+    <string name="Guide">Guide</string>
+    <string name="SearchGuide">Search Guide</string>
+    <string name="AddGuide">Add Guide</string>
+    <string name="Setting">Settings</string>
+    <string name="Help">Help</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="girisad">Safranbolu City Guide</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="singup">SingUp</string>
+    <string name="forgetpass">Forget password?</string>
+    <string name="Username">Username</string>
+    <string name="Steps">Steps</string>Fastest route
+    <string name="Fastestroute">Fastest route</string>
+    <string name="NewEmail">New E-mail</string>
+    <string name="Name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Explain">Explain</string>
+    <string name="Location">Location</string>
+    <string name="Submit">Submit</string>
+    <string name="Message">Message</string>
+    <string name="Send">Send</string>
+    <string name="Mail">E-Mail</string>
+    <string name="Update">Update</string>
+    <string name="SaveThisPlaces">Save This Places</string>
+    <string name="PlacesName">Places Name</string>
+    <string name="PlacesInfo">Places Information</string>
+    <string name="PleaseSelectImage">Please Select İmage</string>
+    <string name="SaveLocation">Save Location</string>
+    <string name="ChangePassword">Change Password</string>
+    <string name="Logout">Logout</string>
+    <string name="AirHorn">Air Horn</string>
+    <string name="Question">Question</string>
+    <string name="Answer">Answer</string>
+
+
+</resources>

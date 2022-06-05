@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402668729309",
+    "project_id": "pop-finder-c631e",
+    "storage_bucket": "pop-finder-c631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402668729309:android:c7b7cec8f148069668fc34",
+        "android_client_info": {
+          "package_name": "com.example.popfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402668729309-0k4kco4oblspvu7o160i34fti2ue5486.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.popfinder",
+            "certificate_hash": "7ec4abf080d3b082d7a1079d3ff215f6bac49a78"
+          }
+        },
+        {
+          "client_id": "402668729309-sf3petlss1vrcqv1po0r64cq02p4ajan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmoBqTp03q5GnT4sOL66ln-FsrZDjtVEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402668729309-sf3petlss1vrcqv1po0r64cq02p4ajan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

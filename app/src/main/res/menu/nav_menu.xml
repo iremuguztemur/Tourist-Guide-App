@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btnHome"
+            android:icon="@drawable/ic_home"
+            android:title="@string/Home" />
+
+        <item
+            android:id="@+id/btnSavedPlaces"
+            android:icon="@drawable/ic_location"
+            android:title="@string/SavedPlaces" />
+
+        <item
+            android:id="@+id/btnspinWheel"
+            android:icon="@drawable/ic_location"
+            android:title="Nereye Gitsem?" />
+
+
+
+        <item android:title="@string/Guide">
+            android:icon="@drawable/ic_next"
+            <menu>
+                <item
+                    android:id="@+id/btnGuide"
+                    android:icon="@drawable/ic_next"
+                    android:title="@string/SearchGuide"
+                    />
+                <item
+                    android:id="@+id/btnAddGuide"
+                    android:icon="@drawable/ic_edit"
+                    android:title="@string/AddGuide"
+                    />
+
+
+            </menu>
+        </item>
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/btnSetting"
+                android:icon="@drawable/ic_setting"
+                android:title="@string/Setting" />
+
+            <item
+                android:id="@+id/btnHelp"
+                android:icon="@drawable/ic_help"
+                android:title="@string/Help" />
+
+
+        </menu>
+    </item>
+
+
+
+</menu>
